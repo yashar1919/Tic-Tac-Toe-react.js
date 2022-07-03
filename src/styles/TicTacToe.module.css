@@ -1,0 +1,23 @@
+.winHistoryX {
+  color: blueviolet;
+  font-size: 1.8rem;
+  margin-left: -10px;
+ /*  margin: 2rem 0; */
+}
+
+.winHistoryO {
+  color: blueviolet;
+  font-size: 1.8rem;
+  margin-left: 350px;
+ /*  margin: 2rem 0; */
+}
+
+.title{
+  color: #00d4ff;
+  text-align: center;
+  font-size: 3.5rem;
+  font-family: 'Courier New', Courier, monospace;
+  margin-bottom: 70px;
+  margin-top: 5px;
+  border: 5px solid yellowgreen;
+}

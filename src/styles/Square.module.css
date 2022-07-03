@@ -1,0 +1,24 @@
+.square {
+  background: rgba(27, 255, 255, 0.8);
+  height: 8rem;
+  width: 8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: white;
+  font-size: 6rem;
+}
+
+.square:hover {
+  background: rgb(118, 255, 255);
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  align-items: center;
+  justify-content: center;
+  grid-gap: 20px;
+  margin-top: 80px;
+}
